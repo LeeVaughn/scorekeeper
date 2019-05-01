@@ -5,7 +5,7 @@ An easy to use score keeping application built with React.
 ## Motivation
 
 Everyone loves to play games with their friends and family but avoid pencil and paper scorekeeping and the inevitable math
-math error that come along with it and use Scorekeeper instead.
+errors that come along with it and use the Scorekeeper app instead.
 
 ## Features
 
